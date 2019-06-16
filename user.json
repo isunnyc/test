@@ -2,5 +2,6 @@
     "msg": "成功",
     "code": 200,
     "data": "",
-    "user": "test"
+    "name": "test",
+    "status": "激活"
 }
